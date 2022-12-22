@@ -1,0 +1,51 @@
+providertype,COUNT(DISTINCT npi)
+Family Practice,430
+Internal Medicine,395
+Physician Assistant,207
+Chiropractic,207
+Emergency Medicine,172
+Physical Therapist in Private Practice,165
+Orthopedic Surgery,129
+Cardiology,128
+Optometry,127
+Diagnostic Radiology,124
+Nurse Practitioner,123
+Anesthesiology,121
+Certified Registered Nurse Anesthetist (CRNA),117
+Ophthalmology,109
+General Surgery,108
+Podiatry,107
+Gastroenterology,106
+Neurology,74
+Dermatology,72
+Psychiatry,70
+Urology,67
+Hospitalist,65
+Obstetrics & Gynecology,61
+Hematology-Oncology,59
+Pulmonary Disease,53
+Otolaryngology,50
+"Psychologist, Clinical",49
+Nephrology,45
+Interventional Cardiology,42
+Physical Medicine and Rehabilitation,38
+General Practice,36
+Infectious Disease,30
+Radiation Oncology,26
+Neurosurgery,25
+Pathology,24
+Plastic and Reconstructive Surgery,23
+Endocrinology,22
+Interventional Pain Management,21
+Interventional Radiology,19
+Pain Management,17
+Clinical Cardiac Electrophysiology,17
+Critical Care (Intensivists),16
+Allergy/ Immunology,16
+Vascular Surgery,15
+Rheumatology,15
+Hand Surgery,15
+Colorectal Surgery (Proctology),13
+Thoracic Surgery,12
+Licensed Clinical Social Worker,12
+Other,18

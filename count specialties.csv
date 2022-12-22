@@ -1,0 +1,49 @@
+providertype,COUNT(DISTINCT npi)
+Nurse Practitioner,1040
+Family Practice,693
+Internal Medicine,561
+Physician Assistant,546
+Physical Therapist in Private Practice,330
+Chiropractic,295
+Certified Registered Nurse Anesthetist (CRNA),253
+Emergency Medicine,249
+Centralized Flu,227
+Optometry,220
+Mass Immunizer Roster Biller,167
+Podiatry,149
+Diagnostic Radiology,147
+Cardiology,142
+Anesthesiology,139
+Orthopedic Surgery,138
+Ophthalmology,135
+Obstetrics & Gynecology,125
+General Surgery,124
+Gastroenterology,122
+Dermatology,106
+Hospitalist,104
+"Psychologist, Clinical",98
+Neurology,96
+Licensed Clinical Social Worker,96
+Psychiatry,93
+Hematology-Oncology,74
+Urology,67
+Ambulatory Surgical Center,66
+Otolaryngology,63
+Pulmonary Disease,60
+Physical Medicine and Rehabilitation,55
+General Practice,51
+Audiologist,51
+Nephrology,50
+Infectious Disease,46
+Interventional Cardiology,42
+Endocrinology,38
+Pathology,36
+Radiation Oncology,33
+Occupational Therapist in Private Practice,30
+Interventional Pain Management,28
+Plastic and Reconstructive Surgery,27
+Neurosurgery,26
+Critical Care (Intensivists),22
+Allergy/ Immunology,22
+Rheumatology,21
+Other,295

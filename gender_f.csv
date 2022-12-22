@@ -1,0 +1,34 @@
+providertype,COUNT(DISTINCT npi)
+Nurse Practitioner,917
+Physician Assistant,339
+Family Practice,263
+Internal Medicine,166
+Physical Therapist in Private Practice,165
+Certified Registered Nurse Anesthetist (CRNA),136
+Optometry,93
+Chiropractic,88
+Licensed Clinical Social Worker,84
+Emergency Medicine,77
+Obstetrics & Gynecology,64
+"Psychologist, Clinical",49
+Audiologist,43
+Podiatry,42
+Hospitalist,39
+Dermatology,34
+Ophthalmology,26
+Occupational Therapist in Private Practice,26
+Psychiatry,23
+Diagnostic Radiology,23
+Neurology,22
+Anesthesiology,18
+Physical Medicine and Rehabilitation,17
+Infectious Disease,16
+General Surgery,16
+Gastroenterology,16
+Endocrinology,16
+Hematology-Oncology,15
+General Practice,15
+Cardiology,14
+Otolaryngology,13
+Pathology,12
+Other,32
