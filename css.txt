@@ -1,0 +1,48 @@
+.fstoggle { visibility: hidden }
+.ui-pnotify { visibility: hidden }
+.pgstatetoggle { visibility: hidden }
+.pgfilestoggle { visibility: hidden }
+.pgsettingstoggle { visibility: hidden } 
+.pgcameratoggle { visibility: hidden }
+#pgstatus { visibility: hidden } 
+#state_wrapper > div:nth-child(1) > a:nth-child(1) > i:nth-child(1) { color: white; }
+#state_wrapper > div:nth-child(1) > a:nth-child(1) { color: #fff; }
+#job_print { background-color: #08c; }
+.gwin #myslider .slider-track { background-color: rgba(0, 0, 0, 0.5) !important; }
+.pgfullscreen #state_wrapper {
+color: #fff;
+background-color: rgba(0, 0, 0, 0.75) !important;
+border: 0 !important;
+font-size: 14px;
+}
+#profileInfo {
+font-size: 15px;
+padding-bottom: 10px;
+}
+#connectionInfo {
+font-size: 15px;
+padding-bottom: 10px;
+}
+#stateInfo {
+font-size: 15px;
+padding-bottom: 10px;
+}
+div.dashboard_threeQuarterGauge > svg {
+padding-left: 0; }
+div.dashboard_threeQuarterGauge > svg > path.bg {
+stroke: #bebebe
+}
+div.dashboardGridContainer {
+padding: 10px;
+color: #fff;
+background-color: #000
+}
+#dashboard_fullScreenIcon { position: absolute; left: -2000px; }
+#dashboard_fullWindowIcon { position: absolute; left: -2000px; }
+.pgdashtoggle { visibility: hidden }
+div.dashboardGridContainer:nth-child(5) {
+background-color: #000;
+margin-top: -20px;
+padding: 0px 0px 0px 10px;
+margin-bottom: -50px;
+}
